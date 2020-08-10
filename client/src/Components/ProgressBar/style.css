@@ -1,0 +1,9 @@
+.progress-bar{
+    position: relative;
+}
+.filler{
+    position: relative;
+    height: 100%;
+    border-radius: inherit;
+    transition: width .2s ease-in;
+}

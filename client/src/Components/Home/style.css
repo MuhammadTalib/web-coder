@@ -1,0 +1,91 @@
+/* 
+    #0080BF blue
+    #50514F dark liver(grey)
+    #F25F5C Sunset Orange
+    #FFE066 Mustard
+    #70C1B3 Green Sheen
+
+*/
+
+.main-wrapper{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    background-image: linear-gradient(#282c34, #282c34, #70C1B3);
+    height: fit-content !important;
+}
+
+.main-header{
+    font-size: 42px;
+    color: #FFE066;
+    font-family: Spartan !important;
+    margin-top: 131px;
+    text-align: center;
+}
+.sub-header{
+    font-size: 19px;
+    color: #70C1B3;
+    font-family: Spartan !important;
+    margin-top: 17px;
+    text-align: center;
+}
+.share-btn{
+    position: relative !important;
+    background-color: #F25F5C !important;
+    color: #FFE066 !important;
+    width: 220px;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 40px !important;
+    height: 45px !important;
+    font-size: 15px !important;
+    font-family: Spartan !important;
+}
+.desc-paper{
+    width: 360px;
+    margin: 20px;
+    padding: 15px;
+    background-color: inherit !important;
+    color: white !important;
+}
+.desc-grid{
+    margin-top: 120px !important;
+}
+.paper-header{
+    font-size: 25px;
+    font-weight: 300;
+}
+.paper-desc{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-weight: 300;
+}
+.bottom-desc{
+    position: relative;
+    background-color: inherit;
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #282c34;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #F25F5C;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

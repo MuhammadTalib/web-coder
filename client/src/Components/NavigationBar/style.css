@@ -1,0 +1,62 @@
+
+/* 
+    #0080BF blue
+    #50514F dark liver(grey)
+    #F25F5C Sunset Orange
+    #FFE066 Mustard
+    #70C1B3 Green Sheen
+
+
+*/
+.btn{
+    position: absolute !important;
+    right: 50px;
+    font-weight: 100 !important;
+    font-size: 14px !important;
+    font-family: Spartan !important;
+    color: #FFE066 !important;
+}
+.login-btn{
+    right: 130px !important;
+}
+.share1-btn{
+    position: relative !important;
+    left: 20px;
+    background-color: #F25F5C !important;
+    color: #FFE066 !important;
+    height: 45px !important;
+    font-size: 15px !important;
+    font-family: Spartan !important;
+}
+.toolbar-style{
+    width: 100% !important;
+    height:50px !important;
+    min-height: 50px !important;
+    background-color:  #F25F5C ;
+}
+.main-nav-div{
+    font-size: 14px !important;
+    font-family: Spartan !important;
+    color: #FFE066 !important;
+}
+.main-heading{
+    font-size: 14px !important;
+    font-family: Spartan !important;
+    font-size: 20px !important;
+}
+.dialog-title{
+    font-size: 19px !important;
+    font-family: Spartan;
+    padding: 25px;
+}
+.url-web{
+    font-size: 19px !important;
+    padding: 25px;
+}
+@media only screen and (min-width: 768px) {
+    
+}
+@media only screen and (min-width: 1000px) {
+
+}
+  

@@ -1,0 +1,66 @@
+/* 
+    #0080BF blue
+    #50514F dark liver(grey)
+    #F25F5C Sunset Orange
+    #FFE066 Mustard
+    #70C1B3 Green Sheen
+
+
+*/
+.main-wrapper{
+    position: absolute;
+    background-color: #282c34 !important;
+    width: 100%;
+    height: 100vh;
+    top: 0px;
+    z-index: 4 !important;
+}
+.login-header{
+    font-size: 32px;
+    color: #FFE066;
+    font-family: Spartan !important;
+    margin-top: 96px;
+    text-align: center;
+}
+
+.loginButton{
+    background-color: #F25F5C;
+    color:#FFE066;
+    position: relative;
+    margin-top: 20px;
+    width: 378px;
+    height: 46px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.note{
+    margin-top: 18px;
+    text-align: center;
+    color: #FFE066;
+    font-family: Spartan;
+    font-size: 13px;
+}
+.NavLink{
+    color: aliceblue;
+    text-align: center;
+    font-family: Spartan;
+}
+@media only screen and (min-width: 768px) {
+    .login-header{
+        font-size: 43px;
+        color: #FFE066;
+        font-family: Spartan !important;
+        margin-top: 111px;
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 1000px) {
+    .login-header{
+        font-size: 45px;
+        color: #FFE066;
+        font-family: Spartan !important;
+        margin-top: 75px;
+        text-align: center;
+    }
+}
+  

@@ -1,0 +1,16 @@
+
+.MuiOutlinedInput-input{
+    width: 350px !important;
+}
+.MuiFormLabel-root{
+    color: #70C1B3 !important;
+}
+.MuiFormLabel-root.Mui-focused{
+    color: #70C1B3 !important;
+}
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+    border-color: #70C1B3 !important;
+}
+.MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline{
+    border-color:  #70C1B3 !important;
+}
